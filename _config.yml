@@ -1,0 +1,28 @@
+name: Phillip Antala @ Co
+favicon: null
+layout_spectrum: 0.7141362931579351
+typography_spectrum: 0.4608432010281831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9582942763809115
+  lightness: 0.8240701789036393
+  saturation: 0.4281666127499193
+  rhythmicContrast: 0.02708335849456489
+purpose: []
